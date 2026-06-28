@@ -227,7 +227,7 @@ The one missed branch is the `default` arm of the opcode `case` statement (unrea
 | Metric | Result |
 |---|---|
 | Covergroup Bins | 45 / 45 — **100.00%** |
-| Coverpoints / Crosses | 16 — all **100.00%** |
+| Coverpoints / Crosses | 16 — **100.00%** |
 
 > **Note:** The all-instance total in the report also includes testbench-side packages (sequence item, driver, scoreboard, coverage classes) whose statement/branch coverage is not a closure target. The DUT, bound SVA module, and UVM functional covergroup are the primary verification closure metrics.
 
